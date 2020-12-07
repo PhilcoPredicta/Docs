@@ -18,6 +18,26 @@
 
 </details>
 
+<details><summary>Chip Details</summary>
+
+SMSC<br>
+LAN9514-JZX<br>
+Data Sheet: https://ww1.microchip.com/downloads/en/DeviceDoc/00002306A.pdf
+
+---
+
+broadcom<br>
+bcm2837rifbg<br>
+Data Sheet: https://en.wikipedia.org/wiki/Raspberry_Pi#Processor
+
+---
+
+elpida<br>
+b8132b4pb-8d-f<br>
+Data Sheet: https://www.mouser.com/datasheet/2/671/168b_2e0e_embedded_lpddr2_sdram-1283515.pdf
+
+</details>
+
 ### HDMI RX
 <details><summary>Teardown Images</summary>
 
